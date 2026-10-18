@@ -1,0 +1,12 @@
+body {
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+}
+
+.snowborder {
+    position: absolute;
+    bottom: 0;
+    left: 15%;
+    object-fit: fill;
+}
