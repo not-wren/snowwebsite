@@ -11,14 +11,14 @@ body {
     white-space: pre;
     position: fixed;
     left: 70%;
-    bottom: 5%;
+    bottom: 0%;
 }
 .tree-art{
     font-family: monospace;
     color: beige;
     white-space: pre;
     position: fixed;
-    left: 30%;
+    left: 0%;
     bottom: 5%;
 }
 @keyframes fall {
