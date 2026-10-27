@@ -7,8 +7,19 @@ body {
 }
 .ascii-art{
     font-family: monospace;
+    color: beige;
     white-space: pre;
     position: fixed;
+    left: 70%;
+    bottom: 5%;
+}
+.tree-art{
+    font-family: monospace;
+    color: beige;
+    white-space: pre;
+    position: fixed;
+    left: 30%;
+    bottom: 5%;
 }
 @keyframes fall {
    to {
