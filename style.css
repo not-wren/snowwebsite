@@ -3,13 +3,13 @@ body {
     margin: 0;
     text-align: center;
     overflow: hidden;
-    background: #002244;
+    background: #074888;
 }
 @keyframes fall {
    to {
     transform: translateY(100vh);
    } 
-   
+
 }
 .snowflake {
     position: absolute;
@@ -24,8 +24,8 @@ body {
     object-fit: fill;
 }
 #Christmas {
-    color: brown;
+    color: rgb(224, 23, 23);
 }
 #pa {
-    color: darkgreen;
+    color: rgb(5, 119, 1);
 }
