@@ -5,6 +5,16 @@ body {
     overflow: hidden;
     background: #074888;
 }
+#card{
+    width: 300px;
+    left: 50%;
+}
+a {
+    color: rgb(224, 23, 23);
+}
+#flaky{
+    color: white;
+}
 .ascii-art{
     font-family: monospace;
     color: beige;
