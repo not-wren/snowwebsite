@@ -3,14 +3,14 @@ body {
     margin: 0;
     text-align: center;
     overflow: hidden;
-    background: #074888;
+    background: #032547;
 }
 #card{
     width: 300px;
     left: 50%;
 }
 a {
-    color: rgb(224, 23, 23);
+    color: rgb(251, 170, 170);
 }
 #flaky{
     color: white;
