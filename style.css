@@ -10,7 +10,8 @@ body {
     left: 50%;
 }
 a {
-    color: rgb(251, 170, 170);
+    color: rgb(205, 209, 237);
+    font-size: large;
 }
 #flaky{
     color: white;
@@ -50,8 +51,18 @@ a {
     object-fit: fill;
 }
 #Christmas {
-    color: rgb(224, 23, 23);
+    color: rgb(224, 78, 78);
 }
 #pa {
-    color: rgb(7, 157, 2);
+    color: rgb(122, 217, 119);
+    font-size: larger;
 }
+
+figcaption{
+    color: #dbf8d0;
+}
+audio::-webkit-media-controls-play-button,
+     audio::-webkit-media-controls-panel {
+     background-color: #dbf8d0;
+     color: hsl(130, 54%, 89%);
+     }
