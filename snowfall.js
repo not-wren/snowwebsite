@@ -1,4 +1,5 @@
-const snowflakeSymbols = ['❄', '✦', '✧', '✺', '✶', '❅'];
+const snowflakeSymbols = ['❄', '𑁍', '✧', '⛄︎', '❆', '❅'];
+// other snowflake symbols: ✺ ❄ ✦ ✶ ❅
 let snowfallSpeed = 100;
 let fallDurationRange = {min: 5, max: 10};
 
